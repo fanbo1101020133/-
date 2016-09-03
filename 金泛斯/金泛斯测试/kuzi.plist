@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>h</key>
+		<string>UDOT裤子 (十大裤子品牌，UDOT)UDOT裤子热销商品</string>
+		<key>img</key>
+		<string>b1</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>唐狮裤子 (十大裤子品牌，唐狮)唐狮裤子热销商品</string>
+		<key>img</key>
+		<string>b2</string>
+		<key>price</key>
+		<string>¥19</string>
+		<key>bao</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>播broadcast裤子 (十大裤子品牌，播broadcast)播broadcast裤子热销商品</string>
+		<key>img</key>
+		<string>b3</string>
+		<key>price</key>
+		<string>¥180</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>cherrykeke裤子 (十大裤子品牌，cherrykeke)cherrykeke裤子热销商品</string>
+		<key>img</key>
+		<string>b4</string>
+		<key>price</key>
+		<string>¥69</string>
+		<key>bao</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>轻舞飞扬裤子 (十大裤子品牌，轻舞飞扬)轻舞飞扬裤子热销商品
+轻舞飞扬裤子 (十大裤子品牌，轻舞飞扬)轻舞飞扬裤子热销商品
+轻舞飞扬裤子 (十大裤子品牌，轻舞飞扬)轻舞飞扬裤子热销商品
+</string>
+		<key>img</key>
+		<string>b5</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>永恒颜色Eternal.Color搜索裤子 (十大裤子品牌，永恒颜色Eternal.Color)永恒颜色Eternal.Color裤子热销</string>
+		<key>img</key>
+		<string>b6</string>
+		<key>price</key>
+		<string>¥189</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>秋水伊人裤子 (十大裤子品牌，秋水伊人)秋水伊人裤子热销商品</string>
+		<key>img</key>
+		<string>b8</string>
+		<key>price</key>
+		<string>¥179</string>
+		<key>bao</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>爱肯AIKEN裤子 (十大裤子品牌，爱肯AIKEN)爱肯AIKEN裤子热销商品</string>
+		<key>img</key>
+		<string>b9</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>Maykii媚婍裤子 (十大裤子品牌，Maykii媚婍)Maykii媚婍裤子热销商品</string>
+		<key>img</key>
+		<string>b10</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>POLO JEANS BY Ralph Lauren(POLO JEANS)</string>
+		<key>img</key>
+		<string>b11</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>O.SA裤子</string>
+		<key>img</key>
+		<string>b12</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>POLO JEANS BY Ralph Lauren(POLO JEANS)</string>
+		<key>img</key>
+		<string>b13</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>POLO JEANS BY Ralph Lauren(POLO JEANS)</string>
+		<key>img</key>
+		<string>b14</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>秋水伊人裤子 (十大裤子品牌，秋水伊人)秋水伊人裤子热销商品</string>
+		<key>img</key>
+		<string>b15</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>秋水伊人裤子 (十大裤子品牌，秋水伊人)秋水伊人裤子热销商品</string>
+		<key>img</key>
+		<string>b16</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>h</key>
+		<string>秋水伊人裤子 (十大裤子品牌，秋水伊人)秋水伊人裤子热销商品</string>
+		<key>img</key>
+		<string>b17</string>
+		<key>price</key>
+		<string>¥169</string>
+		<key>bao</key>
+		<true/>
+	</dict>
+</array>
+</plist>
